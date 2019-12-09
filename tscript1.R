@@ -6,3 +6,7 @@ readme <- read.delim("Readme.txt")
 readme
 
 #That's all (for now) folks
+
+
+#Update Dec 9 2019
+#Attempting to add word document to project
